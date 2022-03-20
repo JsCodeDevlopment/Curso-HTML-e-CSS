@@ -68,3 +68,26 @@ p {
     position: relative;
     top: 40%;
 }
+
+/* ESTILO DA PAGINA DE CADASTRO */
+
+.CorpoPaginaCadastro {
+    height: 467px;
+    background-color: #5bb7b6;
+    display: block;
+    padding: 0 256px;
+    text-align: center;
+}
+.FormElementos {
+    height: 400px;
+    padding: 10px 15px;
+    display: inline-block;
+    border: #fff solid;
+    border-radius: 2px;
+    margin-top: 20px;
+    text-align: left;
+}
+.input {
+    height: 30px;
+    width: 300px;
+}
