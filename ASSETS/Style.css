@@ -1,0 +1,19 @@
+/* Reset do Navegador */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.BarraNavegacao {
+    height: 74px;
+    background-color: #438887;
+    display: flex;
+    padding: 0 256px;
+    align-items: center;
+    justify-content: space-between;
+} 
+a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}

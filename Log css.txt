@@ -1,0 +1,15 @@
+COr principal #5bb7b6
+Cor Secundária #438887
+
+font Arial
+tamanho 27px - nav
+51px - titulo na home
+30px - subtitulo na home
+27px - footer
+
+espaçamento lateral = 256px
+espaçamento dos botoes da nav = 26px
+espaçamento do formulário topo = 56px
+espaçamento do formulário fundo = 56px
+
+altura da barra de nav e footer = 74px
