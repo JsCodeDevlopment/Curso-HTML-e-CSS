@@ -28,8 +28,13 @@ a {
     background-color: #5bb7b6;
     display: block;
     padding: 0 256px;
-    align-items: center;
     text-align: center;
+}
+.ConteudoDaPagina {
+    height: 282px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 185px;
 }
 h1 {
     color: #fff;
